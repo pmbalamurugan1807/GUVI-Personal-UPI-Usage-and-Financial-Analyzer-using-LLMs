@@ -30,7 +30,7 @@ Step 5: Below the EDA, there are offline insights given for the finances
 
 Step 6: And after the offline insights, now we have the AI integrated insights which can be accessed by pressing the button, this program take gpt 4o mini for the financial insights
 
-<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/de163c83-74ab-4599-a3c8-047a65944ef2" />
+<img width="500" height="281" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/de163c83-74ab-4599-a3c8-047a65944ef2" />
 
 Step 7: Finally after pressing the button, you get insights from the AI and you can download the insights from pressing the button below the insights given 
 
