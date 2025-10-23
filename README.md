@@ -8,7 +8,7 @@ personalized financial advice using LLMs.
 The system extract transaction details from varied PDF formats, structure the
 data, analyze spending behavior, and deliver tailored recommendations to users with a report.
 
-Step 1: In the python file, write your secret API key in the designated slot at 17th line before running the application
+Step 1: write your secret API key in the designated slot at right side of the screen
 
 Step 2: After you run the streamlit file, you can drop your finance bills in pdf format  as the program asks
 
