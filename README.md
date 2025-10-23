@@ -11,31 +11,24 @@ data, analyze spending behavior, and deliver tailored recommendations to users w
 Step 1: write your secret API key in the designated slot at right side of the screen
 
 Step 2: After you run the streamlit file, you can drop your finance bills in pdf format  as the program asks
-
-<img width="500" height="281" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/b357ae72-8b0c-4cbc-bc5a-21cea3debf07" />
+<img width="1366" height="768" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/4582e956-2fbf-402b-a772-1ff950636006" />
 
 Step 3: Once you upload the pdf file you get the preview for your bills.
-
-<img width="500" height="281" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/a3724a68-b004-4c89-84a1-7852f4b6c662" />\
+<img width="1366" height="768" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/7ee9a788-f63d-4719-bb9f-eaa1f8f04cd0" />
 
 Step 4: EDA for the file is also present right below the preview to show how the money is spent
-
-<img width="500" height="281" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/f7ecbbd1-bf93-432e-8fcf-0e1b30279fa6" />
-<img width="500" height="281" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/744f15b3-bafe-4a33-9df4-7ece04ad1d90" />
-<img width="500" height="281" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/3b760b89-dda6-4f30-bb49-816af4d87a98" />
+<img width="1366" height="768" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/c3f2455e-a00c-4811-ac03-2fc6f800aada" />
+<img width="1366" height="768" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/d7339532-ed2b-443c-b687-9ba70ab35193" />
+<img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/7194fc25-923b-4ee0-8911-20947c9f6535" />
 
 Step 5: Below the EDA, there are offline insights given for the finances 
-
-<img width="500" height="281" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/a9fa3462-ef20-4570-8557-68ffdc95e03b" />
+<img width="1366" height="768" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/321acd8c-3dfa-4ebc-aafd-a34cfb68f90c" />
 
 Step 6: And after the offline insights, now we have the AI integrated insights which can be accessed by pressing the button, this program take gpt 4o mini for the financial insights
-
-<img width="500" height="281" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/de163c83-74ab-4599-a3c8-047a65944ef2" />
+<img width="1366" height="768" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/0c0c30ae-7cbd-4497-90b5-31468d6df5bc" />
 
 Step 7: Finally after pressing the button, you get insights from the AI and you can download the insights from pressing the button below the insights given 
-
-<img width="500" height="281" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/3b3c0825-de78-41bf-8a68-58735717353f" />
-<img width="500" height="281" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/a49b8148-8481-4e95-8324-7c29ed277485" />
+<img width="1366" height="768" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/bc798d62-9b6c-4c87-9cc7-62b8b3bc516c" />
 
 
 
