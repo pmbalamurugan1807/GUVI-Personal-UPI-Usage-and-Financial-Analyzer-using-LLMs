@@ -19,6 +19,10 @@ Step 3: Once you upload the pdf file you get the preview for your bills.
 Step 4: EDA for the file is also present right below the preview to show how the money is spent
 <img width="1366" height="768" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/c3f2455e-a00c-4811-ac03-2fc6f800aada" />
 <img width="1366" height="768" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/d7339532-ed2b-443c-b687-9ba70ab35193" />
+
+
+
+Altered version in huggingface space of same project: https://huggingface.co/spaces/Balamurugan1807/Guvi-UPIfinance/tree/main
 <img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/7194fc25-923b-4ee0-8911-20947c9f6535" />
 
 Step 5: Below the EDA, there are offline insights given for the finances 
