@@ -33,7 +33,7 @@ Step 6: And after the offline insights, now we have the AI integrated insights w
 
 Step 7: Finally after pressing the button, you get insights from the AI and you can download the insights from pressing the button below the insights given 
 <img width="1366" height="768" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/bc798d62-9b6c-4c87-9cc7-62b8b3bc516c" />
-
+Same project in huggingface space : https://huggingface.co/spaces/Balamurugan1807/Guvi-UPIfinance/tree/main
 
 
 
