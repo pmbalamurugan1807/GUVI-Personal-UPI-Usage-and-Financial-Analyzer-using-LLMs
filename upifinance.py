@@ -43,7 +43,7 @@ else:
 st.set_page_config(page_title="AI Personal Finance Assistant", page_icon="💰", layout="wide")
 st.markdown("""
     <style>
-    .main-title { text-align:center; font-size:34px; font-weight:700; color:#4CAF50; text-shadow: 2px 2px 5px rgba(76,175,80,.4);} 
+    .main-title { text-align:center; font-size:34px; font-weight:700; color:#000000; text-shadow: 2px 2px 5px rgba(76,175,80,.4);} 
     .sub-title { text-align:center; font-size:18px; color:#ddd; margin-bottom:20px;}
     .result-card { background: rgba(0, 150, 136, 0.08); padding: 16px; border-radius: 10px; margin: 8px 0; box-shadow: 0 2px 8px rgba(0,0,0,.06);} 
     .success-banner { background: linear-gradient(to right, #2E7D32, #1B5E20); color:#fff; padding:14px; border-radius:10px; text-align:center; font-weight:700; margin-top:10px;}
@@ -383,3 +383,4 @@ if uploaded_files:
             st.info("Enter your OpenAI API key in the sidebar to enable AI-powered recommendations.")
 else:
     st.info("Upload at least one PDF to begin.")
+
